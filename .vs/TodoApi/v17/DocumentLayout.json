@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\linae\\source\\repos\\TodoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9EE866-A545-472A-9C5C-48607F4557A4}|TodoApi.csproj|c:\\users\\linae\\source\\repos\\todoapi\\todoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6E9EE866-A545-472A-9C5C-48607F4557A4}|TodoApi.csproj|solutionrelative:todoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\linae\\source\\repos\\TodoApi\\TodoApi.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TodoApi.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9EE866-A545-472A-9C5C-48607F4557A4}|TodoApi.csproj|c:\\users\\linae\\source\\repos\\todoapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9EE866-A545-472A-9C5C-48607F4557A4}|TodoApi.csproj|solutionrelative:controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 259,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoApi.http",
+              "DocumentMoniker": "C:\\Users\\linae\\source\\repos\\TodoApi\\TodoApi.http",
+              "RelativeDocumentMoniker": "TodoApi.http",
+              "ToolTip": "C:\\Users\\linae\\source\\repos\\TodoApi\\TodoApi.http",
+              "RelativeToolTip": "TodoApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-22T11:22:45.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoApi.csproj.user",
+              "DocumentMoniker": "C:\\Users\\linae\\source\\repos\\TodoApi\\TodoApi.csproj.user",
+              "RelativeDocumentMoniker": "TodoApi.csproj.user",
+              "ToolTip": "C:\\Users\\linae\\source\\repos\\TodoApi\\TodoApi.csproj.user",
+              "RelativeToolTip": "TodoApi.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-04-22T11:22:45.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\linae\\source\\repos\\TodoApi\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\linae\\source\\repos\\TodoApi\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "Controllers\\TodoController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T09:03:46.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
